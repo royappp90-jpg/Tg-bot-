@@ -5,7 +5,7 @@ from user_agent import generate_user_agent
 
 # ---------------- CONFIG ----------------
 
-BOT_TOKEN = "PUT_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8066634772:AAGV9uAUAx6Yz_LmYQff0itxdwLzat9SEmo"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 running = False
